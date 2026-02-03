@@ -21,19 +21,19 @@ Aplikacja mobilna React Native pomagająca osobom starszym i ich opiekunom w zar
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="zdj/d7f67d58-7216-43d1-9e7d-3e868d4440cf.jpg" width="100%" />
+      <img src="zdj/login_page.jpg" width="100%" />
       <br/><b>Logowanie</b><br/>Bezpieczny dostęp do konta
     </td>
     <td align="center" width="25%">
-      <img src="zdj/eed89bad-13ad-45ec-bce0-47247ea2d9a0.jpg" width="100%" />
+      <img src="zdj/register_page.jpg" width="100%" />
       <br/><b>Rejestracja</b><br/>Szybkie tworzenie konta
     </td>
     <td align="center" width="25%">
-      <img src="zdj/cf756fa0-a330-4774-ad05-6b41741272a7.jpg" width="100%" />
+      <img src="zdj/senior_profile_page.jpg" width="100%" />
       <br/><b>Profil Użytkownika</b><br/>Zarządzanie danymi
     </td>
     <td align="center" width="25%">
-      <img src="zdj/79f432dc-21a9-418b-ac8a-977118dc4054.jpg" width="100%" />
+      <img src="zdj/senior_notyfications_page.jpg" width="100%" />
       <br/><b>Powiadomienia</b><br/>Alerty i przypomnienia
     </td>
   </tr>
@@ -43,38 +43,30 @@ Aplikacja mobilna React Native pomagająca osobom starszym i ich opiekunom w zar
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="zdj/0590f4cb-004d-4971-b932-1267a320d07b.jpg" width="100%" />
+      <img src="zdj/senior_dashboard.jpg" width="100%" />
       <br/><b>Pulpit Seniora</b><br/>Najbliższe dawki i powiadomienia
     </td>
     <td align="center" width="25%">
-      <img src="zdj/320626c3-4efe-4262-a137-f0bc7ec1c906.jpg" width="100%" />
+      <img src="zdj/senior_schedule_page.jpg" width="100%" />
       <br/><b>Harmonogram</b><br/>Dzienny plan przyjmowania leków
     </td>
     <td align="center" width="25%">
-      <img src="zdj/1eaf659d-88dc-4d9a-a787-d66ad7c22373.jpg" width="100%" />
+      <img src="zdj/senior_my_medicine_page.jpg" width="100%" />
       <br/><b>Lista Leków</b><br/>Cyfrowa apteczka
     </td>
     <td align="center" width="25%">
-      <img src="zdj/2c04f3fa-2a52-4500-9218-6dbfe17c24ad.jpg" width="100%" />
-      <br/><b>Szczegóły Leku</b><br/>Informacje i dawkowanie
+      <img src="zdj/senior_add_medicine_page.jpg" width="100%" />
+      <br/><b>Dodawanie Leku</b><br/>Dodaj nowy lek do apteczki
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="zdj/4130e08a-4417-4896-ba76-90e598678f54.jpg" width="100%" />
-      <br/><b>Skaner Kodów</b><br/>Automatyczne rozpoznawanie leków
+      <img src="zdj/senior_dashboard_scrolled_down.jpg" width="100%" />
+      <br/><b>Pulpit - Przewinięty</b><br/>Więcej opcji i informacji
     </td>
     <td align="center">
-      <img src="zdj/504dbd26-8b54-4697-b71a-cb7d11e60272.jpg" width="100%" />
-      <br/><b>Weryfikacja</b><br/>Potwierdzenie danych z bazy
-    </td>
-    <td align="center">
-      <img src="zdj/53033639-f767-4726-a6a4-a8cd4bd3a037.jpg" width="100%" />
-      <br/><b>Analiza Interakcji</b><br/>Wykrywanie konfliktów lekowych
-    </td>
-    <td align="center">
-      <img src="zdj/66928922-25f1-4305-8d2f-86eafb3f74c1.jpg" width="100%" />
-      <br/><b>Ostrzeżenia</b><br/>Szczegółowe informacje o ryzyku
+      <img src="zdj/senior_add_keeper_page.jpg" width="100%" />
+      <br/><b>Dodaj Opiekuna</b><br/>Połącz się z opiekunem
     </td>
   </tr>
 </table>
@@ -83,20 +75,26 @@ Aplikacja mobilna React Native pomagająca osobom starszym i ich opiekunom w zar
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="zdj/85379b37-5985-48c5-b9f8-ccd9ee0f91a5.jpg" width="100%" />
+      <img src="zdj/keeper_my_mentees_page.jpg" width="100%" />
       <br/><b>Lista Podopiecznych</b><br/>Zarządzanie wieloma seniorami
     </td>
     <td align="center" width="25%">
-      <img src="zdj/ac5fb8af-c353-49fd-9c57-4017f7097fd6.jpg" width="100%" />
+      <img src="zdj/keeper_dashboard.jpg" width="100%" />
       <br/><b>Panel Monitoringu</b><br/>Status realizacji dawek
     </td>
     <td align="center" width="25%">
-      <img src="zdj/76203036-7746-48d8-8e1d-c5e1f9727467.jpg" width="100%" />
+      <img src="zdj/keeper_senior_details_page.jpg" width="100%" />
       <br/><b>Szczegóły i Statystyki</b><br/>Historia i realizacja dawek
     </td>
     <td align="center" width="25%">
-      <img src="zdj/ba460ecc-e2e6-4b8c-95a0-1ae3a01fdb03.jpg" width="100%" />
+      <img src="zdj/keeper_notifications_page.jpg" width="100%" />
       <br/><b>Alerty Opiekuna</b><br/>Powiadomienia o problemach
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="zdj/keeper_add_senior_page.jpg" width="100%" />
+      <br/><b>Dodaj Podopiecznego</b><br/>Dodaj nowego seniora do opieki
     </td>
   </tr>
 </table>
