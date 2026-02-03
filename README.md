@@ -17,7 +17,7 @@ Aplikacja mobilna React Native pomagająca osobom starszym i ich opiekunom w zar
 
 ## 📸 Galeria
 
-### � Logowanie i Profil
+### 🔐 Logowanie i Profil
 <table align="center">
   <tr>
     <td align="center" width="25%">
@@ -34,7 +34,7 @@ Aplikacja mobilna React Native pomagająca osobom starszym i ich opiekunom w zar
     </td>
     <td align="center" width="25%">
       <img src="zdj/79f432dc-21a9-418b-ac8a-977118dc4054.jpg" width="100%" />
-      <br/><b>Statystyki</b><br/>Podsumowanie aktywności
+      <br/><b>Powiadomienia</b><br/>Alerty i przypomnienia
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ Aplikacja mobilna React Native pomagająca osobom starszym i ich opiekunom w zar
     </td>
     <td align="center" width="25%">
       <img src="zdj/76203036-7746-48d8-8e1d-c5e1f9727467.jpg" width="100%" />
-      <br/><b>Historia Przyjęć</b><br/>Pełny rejestr zdarzeń
+      <br/><b>Szczegóły i Statystyki</b><br/>Historia i realizacja dawek
     </td>
     <td align="center" width="25%">
       <img src="zdj/ba460ecc-e2e6-4b8c-95a0-1ae3a01fdb03.jpg" width="100%" />
